@@ -1,4 +1,4 @@
 mytestapp
 =========
 
-This is my little githubtestapp.
+This is my little github testapp.
